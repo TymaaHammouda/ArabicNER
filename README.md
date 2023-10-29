@@ -51,7 +51,7 @@ A sample data is available in the `data` directory. But the entire Wojood NER co
 available to download upon request for academic and commercial use. Request to download 
 Wojood (corpus and the model).
 
-https://ontology.birzeit.edu/Wojood/
+[https://ontology.birzeit.edu/Wojood/](https://sina.birzeit.edu/wojood/)
 
 Model Download
 --------
